@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey, i'm 7r4phype 👋
 
-<!--
-**7r4phype/7r4phype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Singapore.
 
-Here are some ideas to get you started:
+- keeps notes about lightweight tools that will never be published
+- reading docs more than books lately
+- usually building small tools nobody asked for
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=7r4phype&hide_border=true&theme=react-dark" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=7r4phype&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="7r4phype GitHub stats" />
+
+<img src="https://img.shields.io/badge/FastAPI-58a6ff?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-58a6ff?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQLite-58a6ff?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" />
